@@ -9,7 +9,7 @@ Money Locker is an open-source payment platform with money locker service.
 ### Build With ###
 
 ![C#](https://img.shields.io/badge/-C%23-000?logo=c-sharp)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-000?logo=dotnetcore)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-000?logo=.net)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
