@@ -16,7 +16,6 @@ Money Locker is an open-source payment platform with money locker service.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Angular](https://img.shields.io/badge/-Angular-000?logo=Angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
 
@@ -33,3 +32,4 @@ You can also drop me an email for inquiries and  project collaborations.
 [![Gmail Badge](https://img.shields.io/badge/-dreamerrajat11@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dreamerrajat11@gmail.com)](mailto:dreamerrajat11@gmail.com)
 
 ### License ###
+Apache-2.0 license
