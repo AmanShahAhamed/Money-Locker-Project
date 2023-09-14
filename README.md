@@ -46,4 +46,4 @@ You can also drop me an email for inquiries and project collaborations.
 [![Gmail Badge](https://img.shields.io/badge/-dreamerrajat11@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dreamerrajat11@gmail.com)](mailto:dreamerrajat11@gmail.com)
 
 ### 🔒 License ###
-Apache-2.0 license
+GNU General Public License v2.0
