@@ -5,9 +5,6 @@ Money Locker Service
 
 Money Locker is an open-source payment platform which is integrated with money locker service.
 
-### Key features ###
-
-
 ### Build With ###
 
 ![C#](https://img.shields.io/badge/-C%23-000?logo=c-sharp)
@@ -21,11 +18,9 @@ Money Locker is an open-source payment platform which is integrated with money l
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
 
-### Road Map ###
-
 ### Contribute ###
 
-As a free and open-source project, we are very grateful to everyone who can help us to develop Money Locker.
+We commit all our new features directly into our GitHub repository. As a free and open-source project, we are very grateful to everyone who can help us to develop Money Locker.
 
 ### Contact ###
 
