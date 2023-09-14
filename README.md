@@ -1,10 +1,11 @@
-Project | Money Locker Service
-==============================
+Money Locker Service
+====================
 
 ### About The Project ###
 Money Locker is an open-source payment platform with money locker service.
 
 ### Key features ###
+
 
 ### Build With ###
 
@@ -31,4 +32,4 @@ You can also drop me an email for inquiries and  project collaborations.
 
 [![Gmail Badge](https://img.shields.io/badge/-dreamerrajat11@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dreamerrajat11@gmail.com)](mailto:dreamerrajat11@gmail.com)
 
-### Lisence ###
+### License ###
