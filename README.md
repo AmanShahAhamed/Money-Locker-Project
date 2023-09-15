@@ -32,7 +32,7 @@ Money Locker is an open-source payment platform which is integrated with money l
 - Demo UI created with Angular [ng-version = 15.2.9] which can be hosted locally.
 - MySQL Database schema created which can be hosted on your local machine using script.
 - Currently, It's just an initial phase we have a long journey to go.
-- All bugs, issues and upcoming features will be updated on this git repositor. 
+- All bugs, issues and upcoming features will be updated on this git repository. 
 - Your contributions and suggestions are highly appreciated.
 
 ### 🤝 Contribute ###
